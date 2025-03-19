@@ -1,1 +1,1 @@
-Hi Artifactory and Sonar!!!
+Hi Artifacts and Sonar!!!
